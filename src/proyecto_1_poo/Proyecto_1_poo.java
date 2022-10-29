@@ -16,5 +16,4 @@ public class Proyecto_1_poo {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-    
 }
